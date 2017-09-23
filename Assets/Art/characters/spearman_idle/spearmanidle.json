@@ -1,0 +1,275 @@
+{
+	"frames": {
+		"back robe.png": {
+			"frame": {
+				"h": 1611,
+				"w": 515,
+				"x": 22,
+				"y": 3678
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 1703,
+				"w": 561
+			},
+			"spriteSourceSize": {
+				"h": 1611,
+				"w": 515,
+				"x": 0,
+				"y": 92
+			},
+			"trimmed": "true"
+		},
+		"body.png": {
+			"frame": {
+				"h": 1489,
+				"w": 1708,
+				"x": 22,
+				"y": 1926
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 1511,
+				"w": 1728
+			},
+			"spriteSourceSize": {
+				"h": 1489,
+				"w": 1708,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"head.png": {
+			"frame": {
+				"h": 1277,
+				"w": 1065,
+				"x": 4161,
+				"y": 2978
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 1310,
+				"w": 1203
+			},
+			"spriteSourceSize": {
+				"h": 1277,
+				"w": 1065,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"left arm.png": {
+			"frame": {
+				"h": 1663,
+				"w": 1219,
+				"x": 1555,
+				"y": 1926
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 1663,
+				"w": 1220
+			},
+			"spriteSourceSize": {
+				"h": 1663,
+				"w": 1219,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"left leg bot.png": {
+			"frame": {
+				"h": 1306,
+				"w": 856,
+				"x": 3261,
+				"y": 2978
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 1348,
+				"w": 919
+			},
+			"spriteSourceSize": {
+				"h": 1306,
+				"w": 856,
+				"x": 23,
+				"y": 42
+			},
+			"trimmed": "true"
+		},
+		"left leg top.png": {
+			"frame": {
+				"h": 953,
+				"w": 1011,
+				"x": 2818,
+				"y": 1926
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 963,
+				"w": 1110
+			},
+			"spriteSourceSize": {
+				"h": 953,
+				"w": 1011,
+				"x": 31,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"right arm bot.png": {
+			"frame": {
+				"h": 739,
+				"w": 1029,
+				"x": 5068,
+				"y": 22
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 739,
+				"w": 1029
+			},
+			"spriteSourceSize": {
+				"h": 739,
+				"w": 1029,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"right arm top.png": {
+			"frame": {
+				"h": 815,
+				"w": 829,
+				"x": 3873,
+				"y": 1926
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 841,
+				"w": 831
+			},
+			"spriteSourceSize": {
+				"h": 815,
+				"w": 829,
+				"x": 2,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"right leg bot.png": {
+			"frame": {
+				"h": 1475,
+				"w": 939,
+				"x": 4797,
+				"y": 1459
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 1503,
+				"w": 939
+			},
+			"spriteSourceSize": {
+				"h": 1475,
+				"w": 939,
+				"x": 0,
+				"y": 28
+			},
+			"trimmed": "true"
+		},
+		"right leg top.png": {
+			"frame": {
+				"h": 1026,
+				"w": 510,
+				"x": 5270,
+				"y": 2978
+			},
+			"rotated": "false",
+			"sourceSize": {
+				"h": 1058,
+				"w": 530
+			},
+			"spriteSourceSize": {
+				"h": 1026,
+				"w": 510,
+				"x": 20,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"robe front.png": {
+			"frame": {
+				"h": 1540,
+				"w": 433,
+				"x": 1677,
+				"y": 3633
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 1623,
+				"w": 446
+			},
+			"spriteSourceSize": {
+				"h": 1540,
+				"w": 433,
+				"x": 9,
+				"y": 63
+			},
+			"trimmed": "true"
+		},
+		"shield.png": {
+			"frame": {
+				"h": 5002,
+				"w": 1393,
+				"x": 22,
+				"y": 22
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 5002,
+				"w": 1393
+			},
+			"spriteSourceSize": {
+				"h": 5002,
+				"w": 1393,
+				"x": 0,
+				"y": 0
+			},
+			"trimmed": "true"
+		},
+		"spear.png": {
+			"frame": {
+				"h": 4731,
+				"w": 423,
+				"x": 22,
+				"y": 1459
+			},
+			"rotated": "true",
+			"sourceSize": {
+				"h": 4827,
+				"w": 423
+			},
+			"spriteSourceSize": {
+				"h": 4731,
+				"w": 423,
+				"x": 0,
+				"y": 96
+			},
+			"trimmed": "true"
+		}
+	},
+	"meta": {
+		"app": "Spriter",
+		"format": "RGBA8888",
+		"image": "spearmanidle.png",
+		"scale": 1,
+		"size": {
+			"h": 4419,
+			"w": 5854
+		},
+		"version": "r7"
+	}
+}
